@@ -1,11 +1,22 @@
 # Olá, eu sou o Wendell! 👋 (@wendell-debug)
 
-# 🎓 Estudante de Análise e Desenvolvimento de Sistemas (São Judas - 2026)
-Moro em Praia Grande/SP e estou focado em unir tecnologia com processos do mundo real.
-
-- 📊 **Dados:** Especialista em Excel Avançado (Dashboards e Automação).
-- 💻 **Tech:** Praticando Python e SQL para análise de dados e eficiência operacional (Queries, Filtros, Joins e Relatórios).
-- ⚙️ **Foco:** Auxiliar de Logística | Assistente Administrativo | Suporte TI.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* **Instituição:** São Judas (Conclusão: 2026)
+* **Localização:** Praia Grande/SP 📍
 
 ---
-*Buscando oportunidades para aplicar lógica de programação na resolução de problemas administrativos e logísticos.*
+
+### 💻 Foco: Tecnologia & Análise de Dados
+Estou focado em unir programação com processos do mundo real para criar automações e relatórios inteligentes. Busco oportunidades em:
+* Estágio / Trainee em Desenvolvimento de Sistemas (ADS)
+* Análise de Dados / Suporte de TI
+* Assistente de Operações (Foco em Excel e Automação)
+
+---
+
+### 📊 Habilidades Técnicas
+
+* **Excel Avançado:** Construção de Dashboards, fórmulas complexas e automação de processos.
+* **Python & SQL:** Desenvolvimento de scripts para automação de tarefas e manipulação de bancos de dados (Queries, Filtros, Joins e Relatórios).
+
+---
