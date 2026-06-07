@@ -8,7 +8,7 @@
 
 ### 💻 Foco: Tecnologia & Análise de Dados
 Estou focado em unir programação com processos do mundo real para criar automações e relatórios inteligentes. Busco oportunidades em:
-* Estágio / Trainee em Desenvolvimento de Sistemas (ADS)
+* Trainee em Desenvolvimento de Sistemas (ADS)
 * Análise de Dados / Suporte de TI
 * Assistente de Operações (Foco em Excel e Automação)
 
