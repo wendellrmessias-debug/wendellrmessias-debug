@@ -1,22 +1,26 @@
 # Olá, eu sou o Wendell! 👋 (@wendell-debug)
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-* **Instituição:** São Judas (Conclusão: 2026)
+### 🎓 Sobre Mim
+* **Curso:** Análise e Desenvolvimento de Sistemas (Formando em Julho de 2026)
+* **Instituição:** Centro Universitário São Judas Tadeu
 * **Localização:** Praia Grande/SP 📍
 
 ---
 
-### 💻 Foco: Tecnologia & Análise de Dados
-Estou focado em unir programação com processos do mundo real para criar automações e relatórios inteligentes. Busco oportunidades em:
-* Trainee em Desenvolvimento de Sistemas (ADS)
-* Análise de Dados / Suporte de TI
-* Assistente de Operações (Foco em Excel e Automação)
+### 💻 Meu Foco
+Gosto de unir a lógica de programação com as necessidades reais das empresas. Meu objetivo é criar automações inteligentes que eliminam tarefas manuais e geram relatórios eficientes para a tomada de decisão. 
+
+Estou buscando oportunidades para entrar no mercado como:
+* Desenvolvedor Python Júnior / Backend
+* Analista de Dados Júnior / BI
+* Suporte Técnico de TI
+* Assistente Operacional ou Administrativo (Foco em Excel e Automação)
 
 ---
 
 ### 📊 Habilidades Técnicas
 
-* **Excel Avançado:** Construção de Dashboards, fórmulas complexas e automação de processos.
-* **Python & SQL:** Desenvolvimento de scripts para automação de tarefas e manipulação de bancos de dados (Queries, Filtros, Joins e Relatórios).
-
----
+* **Excel Avançado & VBA:** Criação de dashboards, fórmulas complexas, Power Query e automação completa de planilhas.
+* **Python:** Scripts para automação de tarefas, Programação Orientada a Objetos (POO) e manipulação de arquivos (CSV e JSON).
+* **Banco de Dados (SQL):** Modelagem de dados e escrita de queries usando SQLite (Filtros, Joins, Agregações e Relatórios).
+* **Git & GitHub:** Versionamento e organização de código.
