@@ -1,7 +1,7 @@
 # Olá, eu sou o Wendell! 👋 (@wendell-debug)
 
 ### 🎓 Sobre Mim
-* **Curso:** Análise e Desenvolvimento de Sistemas (Formando em Julho de 2026)
+* **Curso:** Análise e Desenvolvimento de Sistemas (Formando em 2026)
 * **Instituição:** Centro Universitário São Judas Tadeu
 * **Localização:** Praia Grande/SP 📍
 
